@@ -9,4 +9,4 @@ Fontes:
 - https://documentation.wazuh.com/current/deployment-options/docker/docker-installation.html
 - https://hub.docker.com/r/wazuh/wazuh/
 
-Interessa perceber e complementar a solução de monitorização de ativos de rede implementada em Prometheus e Grafana com esta solução de SIEM para os ativos mas, agora, ao nivel dos equiapemtnos servidores.
+Interessa perceber e complementar a solução de monitorização de ativos de rede implementada em Prometheus e Grafana com esta solução de SIEM para os ativos, agora, ao nivel dos equiapemtnos do tipo servidor.
